@@ -1,0 +1,13 @@
+[
+ {
+ "run": "20068685-3",
+ "nombre": "Andrés",
+ "apellido": "Sepúlveda",
+ "direccion": "Entre Lagos",
+ "fono": 966403125,
+ "correo":"ansepu@gmail.com",
+ "montoCredito": 50000,
+ "deuda":600000,
+ "tipo": 3
+ }
+]
